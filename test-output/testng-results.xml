@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-23T11:14:21 IST" name="Default suite" finished-at="2025-05-23T11:15:00 IST" duration-ms="39435">
+    <groups>
+    </groups>
+    <test started-at="2025-05-23T11:14:21 IST" name="Default test" finished-at="2025-05-23T11:15:00 IST" duration-ms="39435">
+      <class name="register.TC_RF_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:register.TC_RF_004@4b45a2f5]" started-at="2025-05-23T11:14:21 IST" name="setup" finished-at="2025-05-23T11:14:58 IST" duration-ms="36905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProperNotificationMsgDisplayedManFiled()[pri:0, instance:register.TC_RF_004@4b45a2f5]" started-at="2025-05-23T11:14:58 IST" name="verifyProperNotificationMsgDisplayedManFiled" finished-at="2025-05-23T11:15:00 IST" duration-ms="2402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProperNotificationMsgDisplayedManFiled -->
+      </class> <!-- register.TC_RF_004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
